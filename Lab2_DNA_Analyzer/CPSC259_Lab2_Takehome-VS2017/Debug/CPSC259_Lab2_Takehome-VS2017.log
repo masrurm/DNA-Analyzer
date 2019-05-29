@@ -1,0 +1,4 @@
+﻿  dna.c
+c:\users\admin\downloads\cpsc259_lab2_takehome-vs2017\cpsc259_lab2_takehome-vs2017\dna.c(457): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+c:\users\admin\downloads\cpsc259_lab2_takehome-vs2017\cpsc259_lab2_takehome-vs2017\dna.c(457): warning C4024: 'strlen': different types for formal and actual parameter 1
+  CPSC259_Lab2_Takehome-VS2017.vcxproj -> C:\Users\Admin\Downloads\CPSC259_Lab2_Takehome-VS2017\Debug\CPSC259_Lab2_Takehome-VS2017.exe
